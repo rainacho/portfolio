@@ -10,6 +10,7 @@
 
 # production
 /build
+/rainacho.github.io
 
 # misc
 .DS_Store
